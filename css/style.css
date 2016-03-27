@@ -4,7 +4,7 @@ body, html {
 	-webkit-font-smoothing: antialiased !important;
 	color: #555;
 	width: 100% !important;
-	height: 100% !important;
+	height: 100% !important; 
 }
 h1 {
 	font-weight: 700;

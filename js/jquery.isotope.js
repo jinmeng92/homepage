@@ -3,7 +3,7 @@
  * An exquisite jQuery plugin for magical layouts
  * http://isotope.metafizzy.co
  *
- * Commercial use requires one-time license fee
+ * Commercial use requires one-time license fee.
  * http://metafizzy.co/#licenses
  *
  * Copyright 2012 David DeSandro / Metafizzy

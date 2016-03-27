@@ -4,7 +4,7 @@
  *  Copyright (c) 2013 Bartosz Wojciechowski
  *  http://www.owlgraphic.com/owlcarousel/
  *
- *  Licensed under MIT
+ *  Licensed under MIT.
  *
  */
 

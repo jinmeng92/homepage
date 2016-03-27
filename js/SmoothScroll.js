@@ -3,7 +3,7 @@
 
 // People involved
 //  - Balazs Galambosi (maintainer)  
-//  - Michael Herf     (Pulse Algorithm)
+//  - Michael Herf      (Pulse Algorithm)
 
 (function(){
   
